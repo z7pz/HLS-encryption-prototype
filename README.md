@@ -33,5 +33,8 @@ ffmpeg -y
 ```
 ### FRONTEND
 then you can go to the frontend file and run the html file 
-or you can run it through runinng `Live Server`
+
+or you can run it through running `Live Server`
+
+
 ![image](https://github.com/z7pz/HLS-encryption-prototype/assets/63007978/fd799e84-4604-430c-85f2-6a924278fcd7)
