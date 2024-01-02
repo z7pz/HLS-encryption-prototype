@@ -1,0 +1,4 @@
+database/*
+enc.key
+enc.keyinfo
+node_modules
